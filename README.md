@@ -10,4 +10,4 @@
 
 * I isolated the reponses from the original dataset into one file and the monetary reponses by state into another file and sorted them in descending order by reponses. By sheer number of complaints and monetary responses California definitely won out, but that's not surprising given the population size of California.
 
-* To go further with this project after class it would be interesting to see this data laid out after adjusted for population size because while California
+* To go further with this project after class it would be interesting to see this data laid out after adjusted for population size.
