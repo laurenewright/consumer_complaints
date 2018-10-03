@@ -1,6 +1,6 @@
 # Results Summary
 
-* Consumer complaints and the frequency of recieving monetary relief
+* Consumer complaints and the frequency of receiving  monetary relief
 
 * Code Louisville Python Project
 
